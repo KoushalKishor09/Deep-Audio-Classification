@@ -17,4 +17,3 @@
 1. **Clone the repository:**
    ```bash
    https://github.com/KoushalKishor09/Deep-Audio-Classification.git
-   cd Deep-Audio-Classification
