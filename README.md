@@ -16,5 +16,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Deep-Audio-Classification.git
+   https://github.com/KoushalKishor09/Deep-Audio-Classification.git
    cd Deep-Audio-Classification
